@@ -1,0 +1,10 @@
+num=9
+print(type(num))
+num='sahana'
+#print(type(num))
+num=755.023
+print(type(num))
+num="sahana"
+print(type(num))
+num=int(input('2'))
+print(type(num))
