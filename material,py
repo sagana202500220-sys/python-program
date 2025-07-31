@@ -1,0 +1,3 @@
+study_material=["pencil","pen","king size note"]
+for i in study_material:
+    print(i)
